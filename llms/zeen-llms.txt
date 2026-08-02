@@ -1,0 +1,31 @@
+# Zeen - Autonomous Finance Platform
+
+> Zeen is an AI-powered personal finance copilot that automates money management, optimizes savings, prevents losses, and provides real-time financial insights. Currently in pre-launch with a waitlist sign-up.
+
+Zeen learns, adapts, and works constantly to optimize your money — helping you budget, save, and avoid fees. The platform connects to your financial accounts and uses autonomous AI agents to manage your finances in the background.
+
+## Core Features
+
+- **AI Financial Copilot**: An interactive AI that understands your financial context and answers questions in real-time.
+- **Autonomous Agents**: Background processes that actively manage money without manual intervention.
+- **Guard (Loss Prevention)**: Proactive monitoring to avoid overdraft fees and cancel unused subscriptions.
+- **Grow (Yield Optimization)**: Automatically moves idle balances to accounts with better interest rates.
+- **Guide (Spending Insights)**: Simplifies complex financial data into intuitive, actionable clarity.
+- **Seamless Integration**: Connect all your financial accounts once and let Zeen handle the rest.
+- **Relentless Optimization**: Continuously scans for ways to lower costs and maximize returns.
+
+## How Zeen Works
+
+1. **Connect**: Securely link your financial accounts.
+2. **Learn and Automate**: Zeen adapts to your habits and works in the background.
+3. **Optimize and Grow**: Finds opportunities to maximize your money daily.
+
+## Pages
+
+- [Home](https://zeen.com/): Main landing page with product overview, features, and waitlist sign-up.
+- [Sign Up](https://zeen.com/sign-up): Join the Zeen waitlist for early access.
+- [Terms and Conditions](https://zeen.com/terms): Legal terms, privacy policy, and conditions of use.
+
+## API
+
+- [Waitlist Sign-Up](https://zeen.com/api/waitlist): POST endpoint to submit an email address for the waitlist.
