@@ -43,7 +43,7 @@ modified: '2026-07-21'
 image: https://zeen.com/favicon/favicon.svg
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Personal Finance
 - Artificial Intelligence
@@ -59,6 +59,7 @@ tags_raw:
 - AI Agents
 - Autonomous Finance
 - Consumer
+- Financial-Services
 apis: []
 common:
 - type: DomainSecurity
